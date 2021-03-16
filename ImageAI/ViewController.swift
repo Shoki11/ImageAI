@@ -122,6 +122,14 @@ extension ViewController: UINavigationControllerDelegate, UIImagePickerControlle
                 
             }
             
+            
+            
+            
+            
+            
+            
+            
+            
         }
         
     }
